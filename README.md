@@ -1,2 +1,2 @@
-# test-dof-without-skybox-on-urp
+# Depth Of Field Without Skybox On Urp
 Quick example with DOF shader override that excludes skybox.
